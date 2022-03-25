@@ -14,3 +14,26 @@ body {
     justify-content:center;
     align-items: center;
 }
+
+.quiz-container {
+    width: 800px;
+    max-width: 80%;
+    background-color:lavender;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button-q {
+    display: grid;
+    gap: 10px;
+    margin: 20px 0;
+}
+.btn {
+    background-color: rgb(99, 99, 184);
+    border-radius: 5px;
+    padding: 5px 10px;
+   
+}
+.btn:hover {
+    border-color: black;
+}
