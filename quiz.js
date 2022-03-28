@@ -123,8 +123,11 @@ function checkIfFinished(questionNumber) {
 
 function done() {
     stopInterval();
+    // hide #count
+    // show #topScore
     // show total score
     // capture initials
+    // save score in localstore
     // go to high-score page
 }
 
